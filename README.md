@@ -28,4 +28,4 @@ Found a bug or have a feature request? We'd love your input! Simply open an issu
 A big thank you to the Pygame community for their fantastic library and all the tutorials and resources that helped bring this project to life!
 
 ## 🎉 About the Author
-This Snake Game project is crafted with ❤️ by [Palak](https://github.com/Palakasb). Connect with me and let's chat about all things coding and gaming!
+This Snake Game project is crafted with ❤️ by [Akshat](https://github.com/Akshatasb2022/). Connect with me and let's chat about all things coding and gaming!
